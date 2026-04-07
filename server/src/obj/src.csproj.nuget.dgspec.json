@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\GitHub\\netlink\\server\\src\\src.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\GitHub\\NetLink\\server\\src\\src.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\GitHub\\netlink\\server\\src\\src.csproj": {
+    "C:\\Users\\Acer\\Desktop\\GitHub\\NetLink\\server\\src\\src.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\GitHub\\netlink\\server\\src\\src.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\GitHub\\NetLink\\server\\src\\src.csproj",
         "projectName": "src",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\GitHub\\netlink\\server\\src\\src.csproj",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\GitHub\\NetLink\\server\\src\\src.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\GitHub\\netlink\\server\\src\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\GitHub\\NetLink\\server\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
